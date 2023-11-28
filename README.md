@@ -1,1 +1,3 @@
 # DisManSoftPracticaFinal
+
+FUNCIONA
